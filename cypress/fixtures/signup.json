@@ -1,0 +1,25 @@
+{
+  "success": {
+    "name": "Everton Souza",
+    "email": "evrasouza@samuraibs.com.br",
+    "password": "pwd123"
+  },
+  "email_dup": {
+    "name": "Dave Murray",
+    "email": "davemurray@samuraibs.com.br",
+    "password": "pwd123",
+    "is_provider": true
+  },
+  "email_inv": {
+    "name": "Steve Harris",
+    "email": "steveharris.samuraibs.com.br",
+    "password": "pwd123",
+    "is_provider": true
+  }
+  ,
+  "short_password": {
+    "name": "Janick Gers",
+    "email": "janickgers@samuraibs.com.br",
+    "password": null
+  }
+}

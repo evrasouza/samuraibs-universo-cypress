@@ -1,0 +1,15 @@
+{
+    "baseUrl": "https://samuraibs-web-evrasouza.herokuapp.com",
+    "apiServer": "https://samuraibs-api-evrasouza.herokuapp.com",
+    "viewportWidth": 1440,
+    "viewportHeight": 900,
+    "defaultCommandTimeout": 30000,
+    "dbConfig": {
+        "host": "jelani.db.elephantsql.com",
+        "user": "emdzymzf",
+        "password": "OeBqtYreIByiwH2xezrYZ7QBxlZXNKLa",
+        "database": "emdzymzf",
+        "port": 5432
+    },
+    "projectId": "4eddwx"
+}
